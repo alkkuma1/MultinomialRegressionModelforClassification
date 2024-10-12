@@ -55,4 +55,4 @@ Evaluating the model's accuracy on test data
 After training the model, its performance is evaluated based on accuracy metrics, and the results are visualized using confusion matrices and plots of model performance.
 
 ## License
-This repository is private and is licensed for personal use only. Contact the repository owner for more details.
+This repository is public.
